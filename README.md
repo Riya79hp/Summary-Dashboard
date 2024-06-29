@@ -1,18 +1,6 @@
 
-Developed a dynamic dashboard for data visualization using the MERN stack for Company Blackcoffer.
-2023
-Implemented advanced filtering and sorting capabilities using recharts and charts.js, efficiently summarizing over 1,000+ MongoDB entries with search and sort operations completing in just 2 milliseconds, enhancing data accessibility and visualization efficiency by 30%.
-Created a RESTful API for efficient data operations and integrated it with a responsive React front-end, resulting in a 40% reduction in data retrieval time.
-
-Utilizing dashboard with advanced features of data vizualisation for the company's dataset
 
 
-Live Working 
-
-Video : https://drive.google.com/file/d/1NOl0RGeZF2pm3eu5_PJ5LOgj56-ySdee/view?usp=sharing
-for my github readme file write it with emojis
-ChatGPT
-Sure! Here's a GitHub README section with emojis to make it more engaging:
 
 📊 Dynamic Data Visualization Dashboard
 🚀 Developed for Company Blackcoffer (2023)
@@ -54,7 +42,7 @@ Efficiency: Enhanced data accessibility and visualization efficiency by 30%.
 RESTful API: Built to handle all CRUD operations.
 Optimization: Resulted in a 40% reduction in data retrieval time.
 Scalability: Designed to support future expansion and additional features.
-🚀 Live Demo
+🚀 Live Demo Video : https://drive.google.com/file/d/1NOl0RGeZF2pm3eu5_PJ5LOgj56-ySdee/view?usp=sharing
 Experience the dashboard in action: Live Demo Video
 🛠️ Additional Technical Details
 Responsive Design: Ensured compatibility across various devices and screen sizes.
